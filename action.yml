@@ -1,5 +1,8 @@
-name: 'HammerKit'
+name: 'setup-hammerkit'
 description: 'Install hammerkit'
 runs:
   using: 'node12'
   main: 'index.js'
+branding:
+  color: 'green'
+  icon: 'tool'
