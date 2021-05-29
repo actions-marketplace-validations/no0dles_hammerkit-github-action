@@ -1,2 +1,3 @@
-const exec = require('@actions/exec');
-exec.exec('npm i -g hammerkit');
+const { spawn } = require('child_process');
+
+spawn('npm', ['i', '-g', 'hammerkit']);
