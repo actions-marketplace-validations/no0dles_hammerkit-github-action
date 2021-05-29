@@ -1,0 +1,5 @@
+name: 'HammerKit'
+description: 'Install hammerkit'
+runs:
+  using: 'node12'
+  main: 'index.js'
