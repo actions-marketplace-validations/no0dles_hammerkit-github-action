@@ -5,4 +5,4 @@ runs:
   main: 'index.js'
 branding:
   color: 'green'
-  icon: 'tool'
+  icon: 'check'
